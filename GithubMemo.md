@@ -1,3 +1,5 @@
+以下は(https://gist.github.com/manabuyasuda/f449b313970c7a51b655#file-github-L1)の写し。便利。
+
 # GitHub
 
 ## 用語集
